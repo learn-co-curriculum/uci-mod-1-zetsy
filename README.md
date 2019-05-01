@@ -1,22 +1,17 @@
 # Zetsy
 
-## Objectives
+## Learning Goals
 
-1. Develop HTML and CSS competency
-2. Practice visually interpreting HTML and CSS code from the rendered DOM
+- Interpreting HTML and CSS code from the rendered DOM
 
 ## Introduction
 
 This lab challenges you asks you to build an Etsy clone, 'Zetsy', by writing
 your own HTML & CSS from scratch to match the mockup image:
 
-
-## What We Want:
-
 <p align="center">
 <img src="https://curriculum-content.s3.amazonaws.com/fewds-css/fe-zetsy-complete.jpg">
 </p>
-
 
 ## Instructions
 
